@@ -1,2 +1,1 @@
-# HTML_Session_6Assignment_4
-HTML_Session_6Assignment_4
+Write a JavaScript program that stores 5 different Employee objects in an array. Using for in loop display the name, age, salary, city, state and pin code for all employees in console.
